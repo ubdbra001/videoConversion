@@ -7,5 +7,5 @@ Requires that ffmpeg is installed. Should be installed using [these instructions
 
 ## Mac/Linux
 
-Use the file **Mac_videoConvert.sh**
+Use the file **Mac_videoConvert.sh**  
 Requires that ffmpeg is installed 
